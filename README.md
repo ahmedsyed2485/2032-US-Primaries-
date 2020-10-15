@@ -1,4 +1,5 @@
 # U.S-2016-Primaries
+![US Primaries Pic](https://user-images.githubusercontent.com/63736593/96067835-342dd400-0e60-11eb-8a38-066d2d267c7f.jpg)
 
 This project shows the predicted results for the US Primaries in each county in the US. 
 
