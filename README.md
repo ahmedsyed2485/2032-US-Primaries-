@@ -20,6 +20,7 @@ I used a Random Forest Regression Model to predict the winners in the 2032 US Pr
 • Bernie Sanders generally won in poorer areas while Hillary Clinton won in all types of demographics.
 
 #### Code and in-depth analysis
+https://github.com/ahmedsyed2485/U.S-2016-Primaries/blob/master/Primaries%20.ipynb
 
 ## Results
 ### Republican Party
@@ -31,11 +32,11 @@ After applying our model to each county in 2032, our results showed that Donald 
 #### 2032 Republican Candidates
 ![rep32_results](https://user-images.githubusercontent.com/63736593/96089708-d9f73800-0e8c-11eb-94b7-8a863ae6f3ee.png)
 
+#### Code and in-depth analysis
+https://github.com/ahmedsyed2485/U.S-2016-Primaries/blob/master/Republican.ipynb
 
 ### Democratic Party
 After applying our model to each county in 2032, our results showed that the Democratic Party slightly changed. Bernie Sanders lost a few votes to Hillary Clinton, but overall we can see that the Democratic Party remained consistent.
-
-#### Code and in-depth analysis
 
 #### 2016 Democratic Candidates
 ![dem16_results](https://user-images.githubusercontent.com/63736593/96092938-20e72c80-0e91-11eb-88d4-760c89479d9f.png)
@@ -44,6 +45,7 @@ After applying our model to each county in 2032, our results showed that the Dem
 ![dem32_results](https://user-images.githubusercontent.com/63736593/96093216-7de2e280-0e91-11eb-9b5b-c0f821c5ec92.png)
 
 #### Code and in-depth analysis
+https://github.com/ahmedsyed2485/U.S-2016-Primaries/blob/master/Democrat.ipynb
 
 ## 2016 Candidate Policies
 Hillary Clinton - https://www.ontheissues.org/Hillary_Clinton.htm
