@@ -30,7 +30,7 @@ After applying our model to each county in 2032, our results showed that Donald 
 
 
 ### Democratic Party
-After applying our model to each county in 2032, our results showed that 
+After applying our model to each county in 2032, our results showed that the Democratic Party slightly changed. Bernie Sanders lost a few votes to Hillary Clinton, but overall we can see that the Democratic Party remained consistent.
 
 
 #### 2016 Democratic Candidates
