@@ -3,9 +3,17 @@
 
 #### Predicting the type of Winners in the 2032 US Primaries
 ## Overview
+My goal was to predict the US Primary winners in each county for the Republican and Democratic Party in 2032. Obviously we dont know who will be running 12 years from now, but by using the US Primary results in 2016, along with the predicted US demographics in 2030, we could atleast see which 2016 candidate would win in the future and create an idea of the type of future this county will have. 
 
 
-## Analysis Summary
+## 2016 US Primaries Analysis Summary
+
+• Hillary Clinton and Donald Trump led the US in total votes with Bernie Sanders and Ted Cruz trailing.
+
+• Ted Cruz dominated the Republican party in Texas, while Hillary easily won the Democratic Party 
+
+• White people, compared to Black and Latinos, are the only race with a positive correlation on Median Household Income.
+
 
 
 
