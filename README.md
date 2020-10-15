@@ -3,8 +3,9 @@
 
 #### Predicting the type of Winners in the 2032 US Primaries
 ## Overview
-My goal was to predict the US Primary winners in each county for the Republican and Democratic Party in 2032. Obviously we dont know who will be running 12 years from now, but by using the US Primary results in 2016, along with the predicted US demographics in 2030, we could atleast see which 2016 candidate would win in the future and create an idea of the type of future this county will have!
-I used a Random Forest Regression Model to predict the winners in the 2032 US Primaries. Censes.gov posted its prediction for how demographics will change in the next 10 years, so I created a model of demographics in 2032, then trained my model on the 2016 US demographics, 2016 US Primary Winners, and the 2032 US demographics. I then used this model and tested it to predict the Primary winners in each county in the US in 2032.
+My goal was to predict the US Primary winners in each county for the Republican and Democratic Party in 2032. Obviously we dont know who will be running 12 years from now, but by using the US Primary results in 2016, along with the predicted US demographics in 2030, we could atleast see which 2016 candidate would win in the future and create an idea of the type of future this county will have.
+
+I used a Random Forest Regression Model to predict the winners in the 2032 US Primaries. Censes.gov posted its prediction for how demographics will change in the next 10 years, so I created a model of demographics in 2032, then trained my model on the 2016 US demographics, 2016 US Primary Winners, and the 2032 US demographics. I then used this model and tested it to predict the winners in each US county in 2032. i hope you enjoy my results below!
 
 ## 2016 US Primaries Analysis Summary
 
@@ -38,5 +39,16 @@ After applying our model to each county in 2032, our results showed that the Dem
 
 #### 2032 Democratic Candidates
 ![dem32_results](https://user-images.githubusercontent.com/63736593/96093216-7de2e280-0e91-11eb-9b5b-c0f821c5ec92.png)
-## 
+## 2016 Candidate Policies
+Hillary Clinton - https://www.ontheissues.org/Hillary_Clinton.htm
+
+Donald Trump - https://www.ontheissues.org/donald_trump.htm
+
+Bernie Sanders - https://berniesanders.com/issues/
+
+Ted Cruz - https://www.ontheissues.org/senate/ted_cruz.htm
+
+Marco Rubio - https://www.ontheissues.org/senate/marco_rubio.htm
+
 ## Resources
+https://www.census.gov/content/dam/Census/library/publications/2020/demo/p25-1144.pdf
