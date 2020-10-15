@@ -19,6 +19,7 @@ After applying our model to each county in 2032, our results showed that Donald 
 ![rep16_results](https://user-images.githubusercontent.com/63736593/96089142-03fc2a80-0e8c-11eb-8cb5-fa4fd111c413.png)
 
 #### 2032 Republican Candidates
+![rep32_results](https://user-images.githubusercontent.com/63736593/96089708-d9f73800-0e8c-11eb-94b7-8a863ae6f3ee.png)
 
 
 ### Democrat
