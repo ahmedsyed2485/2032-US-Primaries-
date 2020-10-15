@@ -19,6 +19,8 @@ I used a Random Forest Regression Model to predict the winners in the 2032 US Pr
 
 • Bernie Sanders generally won in poorer areas while Hillary Clinton won in all types of demographics.
 
+#### Code and in-depth analysis
+
 ## Results
 ### Republican Party
 After applying our model to each county in 2032, our results showed that Donald Trump won even more counties than 2016. On the other hand, counties where Ted Cruz won in 2016 flipped to Donald Trump. Interestingly, John Kasich lost all counties he won in 2016 while Marco Rubio also lost a few counties and only has won 2 counties in 2032. This is interesting as you would think Donald Trump would lose votes with a surge in people of color, but actually Trump won even more counties and dominated the Republican Party.
@@ -33,12 +35,16 @@ After applying our model to each county in 2032, our results showed that Donald 
 ### Democratic Party
 After applying our model to each county in 2032, our results showed that the Democratic Party slightly changed. Bernie Sanders lost a few votes to Hillary Clinton, but overall we can see that the Democratic Party remained consistent.
 
+#### Code and in-depth analysis
 
 #### 2016 Democratic Candidates
 ![dem16_results](https://user-images.githubusercontent.com/63736593/96092938-20e72c80-0e91-11eb-88d4-760c89479d9f.png)
 
 #### 2032 Democratic Candidates
 ![dem32_results](https://user-images.githubusercontent.com/63736593/96093216-7de2e280-0e91-11eb-9b5b-c0f821c5ec92.png)
+
+#### Code and in-depth analysis
+
 ## 2016 Candidate Policies
 Hillary Clinton - https://www.ontheissues.org/Hillary_Clinton.htm
 
