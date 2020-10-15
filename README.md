@@ -34,6 +34,7 @@ After applying our model to each county in 2032, our results showed that
 
 
 #### 2016 Democratic Candidates
+![dem16_results](https://user-images.githubusercontent.com/63736593/96092938-20e72c80-0e91-11eb-88d4-760c89479d9f.png)
 
 #### 2032 Democratic Candidates
 
