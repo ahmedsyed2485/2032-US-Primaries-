@@ -5,7 +5,7 @@
 ## Overview
 My goal was to predict the US Primary winners in each county for the Republican and Democratic Party in 2032. Obviously we dont know who will be running 12 years from now, but by using the US Primary results in 2016, along with the predicted US demographics in 2030, we could atleast see which 2016 candidate would win in the future and create an idea of the type of future this county will have.
 
-I used a Random Forest Regression Model to predict the winners in the 2032 US Primaries. Census.gov posted its prediction for how demographics will change in the next 10 years, so I created a dataset of demographics in 2032, I then created a model and trained it on the 2016 US demographics, 2016 US Primary Winners, and the 2032 US demographics. After that, I used my model and tested it to predict the winners in each US county in 2032. I hope you enjoy my results below!
+I used a Random Forest Regression Model to predict the winners in the 2032 US Primaries. Census.gov posted its prediction for how demographics will change in the next 10 years, so I created a dataset of demographics in 2032, I then created a model and trained it on the 2016 US demographics (Features) and 2016 US Primary Winners (Labels). After that, I used my model and tested it on the 2032 US demographics to predict the winners in each US county in 2032. I hope you enjoy my results below!
 
 ## 2016 US Primaries Analysis Summary
 
